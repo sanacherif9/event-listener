@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+.name{
+ background-color: black;
+ color: white;
+ -webkit-transform: rotate(-20deg);
+ display: inline-block;
+
+}
+.photo{border: 2px solid black}
